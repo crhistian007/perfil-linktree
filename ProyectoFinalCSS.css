@@ -1,0 +1,72 @@
+*{
+    margin:0;
+    padding: 0;
+    color: #ffffff;
+    font-family: "Comic Neue", cursive;
+    align-items: center;
+}
+
+main{
+    background-image: url("https://img.freepik.com/fotos-premium/fondo-desenfocado-invierno-nocturno-borroso-bokeh-desenfocado-luces-brillantes-sobre-fondo-negro_87555-14386.jpg?w=740");
+    border: 1px solid white;
+    margin-top: 3%;
+    margin-left: 40%;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    border-radius: 25px;
+    height: 350px;
+    width: 250px;
+}
+#nombre{
+    color: #333333;
+    font-size: 50px;
+    font-weight: 10px;
+    margin-left: 30%;
+}
+#descripcion{
+    color:#333333;
+    margin-left: 43%;
+}
+h1{
+    font-size: 15px;
+   
+}
+#timmothy{
+    border-radius: 50%;
+    width: 65px;
+    
+}
+p{
+    font-size: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    line-height: 2;
+}
+
+.botones button{
+    display: flex;
+    flex-direction: column;          
+    background-color: #333333;
+    align-items: center;
+    min-width: 200px;
+    margin-left: 25px;
+    margin-top: 12px;
+    border-radius: 20px;
+    background-color:#ff8a20;
+    border: none;
+    height: 30px;
+    padding: 10px;
+    font-size: 10px;
+}
+#icono img{
+    color: antiquewhite;
+    width: 20px;
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(301deg) brightness(107%) contrast(101%);
+    margin-top: 18px;
+    margin-right: 8px;
+}
+
+
