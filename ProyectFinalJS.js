@@ -9,7 +9,6 @@ function Twiter(){
 function Merch(){
     window.open("https://www.bonfire.com/online-stores/", "_blank");
 }
-
 function Contact(){
     window.open("https://www.facebook.com/crhistian.castaneda.1", "_blank");
 }
