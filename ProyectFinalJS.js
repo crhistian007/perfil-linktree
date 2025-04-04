@@ -14,7 +14,7 @@ function Contact(){
 }
 
 iconoDOM.innerHTML=`
-                <a href="https://x.com/IRONWATT" target="_blank"><img src="twitter.png" alt="twitter" /></a>
-                <a href="https://www.facebook.com/crhistian.castaneda.1" target="_blank"><img src="logo-de-facebook.png" alt="facebook" /></a>
-                <a href="https://www.instagram.com/famosos/" target="_blank"><img src="instagram.png" alt="instagram" /></a>
-                <a href="https://open.spotify.com/intl-es" target="_blank"><img src="spotify.png" alt="spotify" /></a>`
+                <a href="https://x.com/IRONWATT" target="_blank"><img src="img/twitter.png" alt="twitter" /></a>
+                <a href="https://www.facebook.com/crhistian.castaneda.1" target="_blank"><img src="img/logo-de-facebook.png" alt="facebook" /></a>
+                <a href="https://www.instagram.com/famosos/" target="_blank"><img src="img/instagram.png" alt="instagram" /></a>
+                <a href="https://open.spotify.com/intl-es" target="_blank"><img src="img/spotify.png" alt="spotify" /></a>`
